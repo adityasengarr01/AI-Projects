@@ -6,3 +6,8 @@ This repository contains AI and machine learning related projects.
 - Improve model accuracy
 - Add better dataset preprocessing
 - Optimize training performance
+
+## Technologies Used
+- Python
+- Machine Learning
+- Data Processing
